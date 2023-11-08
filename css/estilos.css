@@ -1,0 +1,21 @@
+
+h1, p {
+    font-family: 'Roboto', cursive;
+}
+
+h3 {
+    font-family: 'Roboto', cursive;
+}
+
+#columna2 {
+    background-color: lightblue;
+}
+
+#letraroboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+#map {
+	height: 500px;
+	width: 100%;
+}
